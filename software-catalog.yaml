@@ -8,8 +8,8 @@ RepoUrl: 'https://github.com/Guidewire/uaa.git'
 JiraProjectKey: KETI
 CIUrl: 'https://gwre-devexp-ci-production-devci.gwre-devops.net/project/CloudCommonServices_Auth_UaaIdp'
 DepartmentCode: 275
-ApplicationOwner: Sausalito
-PodOwner: sausalito
+ApplicationOwner: Basavanagudi
+PodOwner: basavanagudi
 BusinessOwner: 'Anoop Gopalakrishnan'
 Type: 'Scripts'
 ProductFamily: gwcp
